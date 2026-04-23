@@ -11,7 +11,7 @@ function ProductCard({ name, material, price }) {
   return (
     <div className="product-card">
       <div className="product-image">
-        <span className="product-placeholder">👕</span>
+        <span className="product-placeholder"></span>
       </div>
       <div className="product-info">
         <h3>{name}</h3>

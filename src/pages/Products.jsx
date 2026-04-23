@@ -2,8 +2,8 @@ import ProductCard from '../components/ProductCard'
 import './Products.css'
 
 const products = [
-  { name: 'Camiseta Básica Urban', material: 'Algodón 100% orgánico', price: 29 },
-  { name: 'Jeans Slim Fit', material: 'Denim premium stretch', price: 89 },
+  { name: 'Camiseta Básica Urban', material: 'Algodón 100% orgánico', price: 30 },
+  { name: 'Jeans Slim Fit', material: 'Denim premium stretch', price: 90 },
   { name: 'Sudadera Oversize', material: 'Algodón French Terry', price: 65 },
   { name: 'Chaqueta Bomber', material: 'Nylon resistente al agua', price: 120 },
   { name: 'Gorra Snapback', material: 'Bordado premium', price: 35 },
