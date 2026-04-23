@@ -14,9 +14,9 @@ const features = [
     description: 'Materiales de alta calidad para máxima durabilidad'
   },
   {
-    icon: '⚡',
+    icon: '🏎️',
     title: 'ENVÍO RÁPIDO',
-    description: 'Entrega express en 24-48 horas'
+    description: 'Entrega express en 24-48 horas, una locura!'
   }
 ]
 

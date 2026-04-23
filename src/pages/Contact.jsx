@@ -17,7 +17,7 @@ function Contact() {
             <div className="contact-icon">📍</div>
             <div>
               <strong>DIRECCIÓN</strong>
-              <p>Calle Urban Style 123<br />28001 Madrid, España</p>
+              <p>Calle barrio Antioquia Style 123<br />28001 MEDELLIN, España</p>
             </div>
           </div>
 
@@ -25,7 +25,7 @@ function Contact() {
             <div className="contact-icon">📞</div>
             <div>
               <strong>TELÉFONO</strong>
-              <p>+34 91 123 45 67</p>
+              <p>+57 3016839867</p>
             </div>
           </div>
 

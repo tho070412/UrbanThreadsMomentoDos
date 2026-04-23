@@ -2,7 +2,7 @@ import ProductCard from '../components/ProductCard'
 import './Products.css'
 
 const products = [
-  { name: 'Camiseta Básica Urban', material: 'Algodón 100% orgánico', price: 30 },
+  { name: 'Camiseta Urbana Clasica', material: 'Algodón 100% orgánico', price: 30 },
   { name: 'Jeans Slim Fit', material: 'Denim premium stretch', price: 90 },
   { name: 'Sudadera Oversize', material: 'Algodón French Terry', price: 65 },
   { name: 'Chaqueta Bomber', material: 'Nylon resistente al agua', price: 120 },
